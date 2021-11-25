@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 void main() {
-String nome = "Joana";
+String nome = "Pedro";
 runApp(
 Center(
 child: RichText(
